@@ -1,0 +1,2 @@
+this is a test as well
+This is the file we will be editing for git workshop
